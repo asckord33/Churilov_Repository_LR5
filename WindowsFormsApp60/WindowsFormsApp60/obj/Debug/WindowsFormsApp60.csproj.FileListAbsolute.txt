@@ -1,0 +1,11 @@
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\PercentCalculator.MainForm.resources
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.Properties.Resources.resources
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\bin\Debug\WindowsFormsApp60.exe.config
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\bin\Debug\WindowsFormsApp60.exe
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\bin\Debug\WindowsFormsApp60.pdb
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.exe
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.pdb
+C:\Users\maxim\source\repos\WindowsFormsApp60\WindowsFormsApp60\obj\Debug\WindowsFormsApp60.exe.config
